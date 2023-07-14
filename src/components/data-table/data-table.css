@@ -1,0 +1,13 @@
+.DataTable thead {
+    position: sticky;
+    background-color: white;
+    top: 0px;
+}
+.DataTable th {
+    border: 1px solid black;
+    padding: 10px;
+}
+.DataTable td {
+    border: 1px solid black;
+    padding: 10px;
+}

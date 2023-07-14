@@ -1,0 +1,4 @@
+.UserTransactionsDataTableCell {
+    display: flex;
+    flex-direction: column;
+}
